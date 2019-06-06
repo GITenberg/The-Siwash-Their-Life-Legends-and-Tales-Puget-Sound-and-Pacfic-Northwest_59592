@@ -1,11 +1,16 @@
 _repo: The-Siwash-Their-Life-Legends-and-Tales-Puget-Sound-and-Pacfic-Northwest_59592
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59592-h/images/cover.jpg
 creator:
   author:
     agent_name: Costello, J. A.
     gutenberg_agent_id: '50527'
     url: http://www.gutenberg.org/2009/agents/50527
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59592#The-Siwash-Their-Life-Legends-and-Tales-Puget-Sound-and-Pacfic-Northwest
 gutenberg_issued: '2019-05-24'
 gutenberg_type: Text
 identifiers:
